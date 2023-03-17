@@ -1,7 +1,6 @@
-package javashooter;
+package javashooter.screens;
 
 import javashooter.imagesandothers.Texture2D;
-import javashooter.screens.MainScreen;
 
 import java.awt.*;
 
